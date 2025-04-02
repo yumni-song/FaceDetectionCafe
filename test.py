@@ -1,5 +1,7 @@
 import cv2
 
+print("just print anything")
+
 # 카메라 객체 생성 (0: 기본 카메라)
 cap = cv2.VideoCapture(0)
 
